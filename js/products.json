@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "DREAMLAND LOGO Zipup Hoodie/チャコール",
+        "price": 138,
+        "image": "images/item1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "DREAMLAND LOGO Zipup Hoodie/カーキ",
+        "price": 138,
+        "image": "images/item2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "BIG SILHOUETTE LongT-Shirts/ライトグレー",
+        "price": 58,
+        "image": "images/item3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BIG SILHOUETTE LongT-Shirts/チャコール",
+        "price": 58,
+        "image": "images/item4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "DAMAGE CAP/ブラック",
+        "price": 18,
+        "image": "images/item5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "DREAMLAND LOGO Keycharm/ブラック",
+        "price": 13,
+        "image": "images/item6.jpg"
+    }
+]
